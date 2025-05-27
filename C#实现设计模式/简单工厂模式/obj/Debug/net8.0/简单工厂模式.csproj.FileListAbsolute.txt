@@ -1,0 +1,15 @@
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\简单工厂模式\bin\Debug\net8.0\简单工厂模式.exe
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\简单工厂模式\bin\Debug\net8.0\简单工厂模式.deps.json
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\简单工厂模式\bin\Debug\net8.0\简单工厂模式.runtimeconfig.json
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\简单工厂模式\bin\Debug\net8.0\简单工厂模式.dll
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\简单工厂模式\bin\Debug\net8.0\简单工厂模式.pdb
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\简单工厂模式\obj\Debug\net8.0\简单工厂模式.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\简单工厂模式\obj\Debug\net8.0\简单工厂模式.AssemblyInfoInputs.cache
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\简单工厂模式\obj\Debug\net8.0\简单工厂模式.AssemblyInfo.cs
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\简单工厂模式\obj\Debug\net8.0\简单工厂模式.csproj.CoreCompileInputs.cache
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\简单工厂模式\obj\Debug\net8.0\简单工厂模式.sourcelink.json
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\简单工厂模式\obj\Debug\net8.0\简单工厂模式.dll
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\简单工厂模式\obj\Debug\net8.0\refint\简单工厂模式.dll
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\简单工厂模式\obj\Debug\net8.0\简单工厂模式.pdb
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\简单工厂模式\obj\Debug\net8.0\简单工厂模式.genruntimeconfig.cache
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\简单工厂模式\obj\Debug\net8.0\ref\简单工厂模式.dll

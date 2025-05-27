@@ -1,0 +1,15 @@
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\ConsoleApp1\bin\Debug\net8.0\单例模式.exe
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\ConsoleApp1\bin\Debug\net8.0\单例模式.deps.json
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\ConsoleApp1\bin\Debug\net8.0\单例模式.runtimeconfig.json
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\ConsoleApp1\bin\Debug\net8.0\单例模式.dll
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\ConsoleApp1\bin\Debug\net8.0\单例模式.pdb
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\ConsoleApp1\obj\Debug\net8.0\单例模式.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\ConsoleApp1\obj\Debug\net8.0\单例模式.AssemblyInfoInputs.cache
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\ConsoleApp1\obj\Debug\net8.0\单例模式.AssemblyInfo.cs
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\ConsoleApp1\obj\Debug\net8.0\单例模式.csproj.CoreCompileInputs.cache
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\ConsoleApp1\obj\Debug\net8.0\单例模式.sourcelink.json
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\ConsoleApp1\obj\Debug\net8.0\单例模式.dll
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\ConsoleApp1\obj\Debug\net8.0\refint\单例模式.dll
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\ConsoleApp1\obj\Debug\net8.0\单例模式.pdb
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\ConsoleApp1\obj\Debug\net8.0\单例模式.genruntimeconfig.cache
+E:\CODE\VS2022\Design-pattern\C#实现设计模式\ConsoleApp1\obj\Debug\net8.0\ref\单例模式.dll
